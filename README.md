@@ -80,3 +80,7 @@ The recovery case leaves only **0.25 t** of capacity above demand, so it is a fr
 ## Scope and limitations
 
 This is a learning and internship simulation. The company, product codes, capacities, demand, schedule, and scenario results are illustrative assumptions. The report describes SAP planning concepts and a configuration/validation approach; it does **not** claim that the scenario was executed in a live SAP system or that the figures are live system output. Any real implementation would require verification against the organization's SAP version, master data, resource calendars, material availability, and operating rules.
+
+## Portfolio Data Alignment
+
+This assessment is part of a connected learning sequence, but retains its own scenario scope, assumptions, units, and reporting period. Figures should not be combined with another assessment unless the population, time window, units, KPI definitions, and scenario basis have first been reconciled. See the [Portfolio Data and Comparability Guide](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Internship-Portfolio/blob/main/PORTFOLIO_DATA_GUIDE.md) for the cross-project map and comparison checklist.
